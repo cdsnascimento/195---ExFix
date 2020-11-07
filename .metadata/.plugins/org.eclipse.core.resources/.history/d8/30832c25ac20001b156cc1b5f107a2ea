@@ -1,0 +1,16 @@
+package service;
+
+import entities.Contract;
+
+public class ContractService {
+
+	private OnlinePaymentService onlinePaymentService;
+	
+	public ContractService(OnlinePaymentService onlinePaymentService) {
+		this.onlinePaymentService = onlinePaymentService;
+	}
+	
+	public void ProcessContract(Contract contract, Integer months) {
+		
+	}
+}

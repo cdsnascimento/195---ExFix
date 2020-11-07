@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\Note_Nascimento\Documents\MeuProjetos\ws-exercicios-fixacao\195\195\.metadata\.plugins\org.eclipse.jdt.core
+1248545562.index
